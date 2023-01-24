@@ -1,0 +1,9 @@
+https://www.learnopencv.com/image-recognition-and-object-detection-part1/  ...HOG explained. Useful for making an algorithm.
+https://en.wikipedia.org/wiki/Histogram_of_oriented_gradients  ...HOG explained. Useful for making an algorithm.
+ 
+identify pedestrians
+count pedestrians
+create audio file 
+Run audio file
+Audio message
+Specialized Audio message
